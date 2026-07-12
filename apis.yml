@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.uuidtools.com/docs
 common:
+  - type: DomainSecurity
+    url: security/uuid-generator-domain-security.yml
   - type: Website
     url: https://www.uuidtools.com/docs
   - type: PublicAPIsListing
