@@ -39,7 +39,6 @@ apis:
   - name: UUID Generator
     description: "Generate UUIDs"
     humanURL: https://www.uuidtools.com/docs
-    baseURL: https://www.uuidtools.com/docs
     tags:
       - Test Data
     properties:
